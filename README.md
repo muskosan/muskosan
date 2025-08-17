@@ -42,20 +42,6 @@ I'm a senior-level designer and developer with 15+ years of experience — a mul
 ![Git](https://img.shields.io/badge/Git-B03032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🏢 Notable Clients & Companies
-
-Microsoft • Intellectual Ventures • Mylio • Vantage Robotics • Fortive • Domicile • Cascadeo • Forterra • Ritani • AT&T • API Systems • Proposal Kit
-
-## 🌟 Current Focus
-
-Lately I've been fascinated by, and exploring using AI models in my workflow and everyday life, integrating cutting-edge AI tools to enhance creative processes and development efficiency.
-
-## 🧘 Beyond the Screen
-
-- Certified meditation instructor and teacher of metaphysics for 12 years
-- Teaching on nights and weekends
-- Love getting outside and making the most of the beautiful PNW
-
 ## 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-iamalexander.net-FF2A13?style=for-the-badge&logo=safari&logoColor=white)](https://iamalexander.net)
