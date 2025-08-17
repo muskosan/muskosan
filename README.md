@@ -1,6 +1,6 @@
 ## I'm Alexander 👋
 
-**Designer & Developer | Design Engineer | Creative Developer** living in the Seattle area
+### **Designer & Developer | Design Engineer | Creative Developer** living in the Seattle area
 
 I'm a senior level designer and developer with 15+ years of experience — a multidisciplinary ninja, sometimes called a creative developer or design engineer. I have a unique skill set, proficient in both design and development, with experience working full stack, but I primarily focus on creating beautiful front-end experiences.
 
