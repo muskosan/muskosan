@@ -13,34 +13,34 @@ I'm a senior-level designer and developer with 15+ years of experience — a mul
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-555555?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-555555?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B8441F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0F4C81?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B8941F?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-0F1419?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend & CMS
-![PHP](https://img.shields.io/badge/PHP-555555?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-555555?style=for-the-badge&logo=wordpress&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-555555?style=for-the-badge&logo=drupal&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-555555?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-15557B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-04578E?style=for-the-badge&logo=drupal&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-8B0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Modern Tools & Frameworks
-![Astro](https://img.shields.io/badge/Astro-555555?style=for-the-badge&logo=astro&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-555555?style=for-the-badge&logo=sanity&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-555555?style=for-the-badge&logo=greensock&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-555555?style=for-the-badge&logo=three.js&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-555555?style=for-the-badge&logo=framer&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-B83D01?style=for-the-badge&logo=astro&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-B02E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-5A8E02?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-003399?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Design & Creative Tools
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-555555?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-555555?style=for-the-badge&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-555555?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe%20Creative%20Suite-B80000?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-B81E1E?style=for-the-badge&logo=figma&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-1B2A41?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ### AI & Workflow
-![ChatGPT](https://img.shields.io/badge/ChatGPT-555555?style=for-the-badge&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-555555?style=for-the-badge&logo=notion&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-4A7A6C?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B03032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🏢 Notable Clients & Companies
 
