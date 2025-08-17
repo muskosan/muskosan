@@ -6,7 +6,7 @@ I'm a senior level designer and developer with 15+ years of experience — a mul
 
 ### 🚀 What I Do
 
-**Design:** The whole kit and kaboodle — wireframe, storyboard, prototype, user testing, full fidelity with asset creation, illustrations, photo editing, video editing, and creative direction overseeing it all.
+**Design:** The whole kit and kaboodle — wireframe, storyboard, prototype, user testing, full fidelity with asset creation, branding, design systems, illustrations, photo editing, video editing, and creative direction overseeing it all.
 
 **Develop:** Wide range of stacks, frameworks, and libraries to bring designs to life with pixel-perfect precision and smooth interactions.
 
@@ -42,7 +42,7 @@ I'm a senior level designer and developer with 15+ years of experience — a mul
 ![Git](https://img.shields.io/badge/Git-B03032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 [![Website](https://img.shields.io/badge/Website-iamalexander.net-FF2A13?style=for-the-badge&logo=safari&logoColor=white)](https://iamalexander.net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandermusgrave/)
