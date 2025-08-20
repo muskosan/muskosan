@@ -1,8 +1,8 @@
 ## I'm Alexander 👋
 
 ### **Designer & Developer** living in the Seattle area
-#### This 
-Senior level designer and developer with 15+ years of experience. Design Engineer, Creative Developer. 
+#### Personal account, doesn't include private repos or years of work accounts.
+Designer and developer with 15+ years of experience. Design Engineer, Creative Developer. 
 
 ### 🚀 What I Do
 
